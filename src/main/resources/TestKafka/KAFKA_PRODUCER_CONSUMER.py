@@ -32,6 +32,6 @@ for line in Lines:
 #Consumer Code to test messaage
 
 """from kafka import KafkaConsumer
-consumer = KafkaConsumer('MyFirstTopic')
+consumer = KafkaConsumer('LogPublisher')
 for message in consumer:
     print (message)"""
