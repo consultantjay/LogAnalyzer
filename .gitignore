@@ -1,0 +1,9 @@
+build/
+coverage/
+LogAnalyzer/
+.idea
+.bsp
+project
+null
+spark-warehouse
+target
